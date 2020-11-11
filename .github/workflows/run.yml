@@ -19,7 +19,7 @@ on:
 #    branches:
 #      - master
   schedule:
-    - cron: 00 05 * * *
+    - cron: 00 07 10 * *
   watch:
     types: started
   
